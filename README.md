@@ -138,6 +138,6 @@ src/main/java/com/cata/tennis
 
 ## **Contributors**
 
-- **Your Name** - [GitHub Profile](https://github.com/your-username)
+- **Hamza RAKROUKI** - [GitHub Profile](https://github.com/your-username)
 
 For any issues or feature requests, feel free to create an issue in the repository.
